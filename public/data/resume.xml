@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resume>
+    <ContactInfo>
+        <PersonName>
+            <FormattedName>ismail alsaedi</FormattedName>
+        </PersonName>
+        <ContactMethod>
+            <Location>San Francisco, CA</Location>
+            <Telephone>
+                <FormattedNumber>+966558953588</FormattedNumber>
+            </Telephone>
+            <InternetEmailAddress>ismailalsaedi1@gmail.com</InternetEmailAddress>
+            <InternetWebAddress>www.linkedin.com/in/ismailalsaedy</InternetWebAddress>
+        </ContactMethod>
+    </ContactInfo>
+    <Objective>
+        A seasoned Principal AI Engineer with over a decade of experience in designing, building, and deploying large-scale machine learning systems. Expert in turning complex business problems into high-performance, data-driven solutions.
+    </Objective>
+    <EmploymentHistory>
+        <EmployerOrg>
+            <EmployerOrgName>Innovate AI Corp</EmployerOrgName>
+            <PositionHistory positionType="directHire">
+                <Title>Principal AI Engineer</Title>
+                <StartDate>2020-01-01</StartDate>
+                <EndDate>Present</EndDate>
+                <Description>Lead the core AI research and development team. Responsible for the architecture of the company's main recommendation engine.</Description>
+            </PositionHistory>
+        </EmployerOrg>
+        <EmployerOrg>
+            <EmployerOrgName>DataDriven Solutions</EmployerOrgName>
+            <PositionHistory positionType="directHire">
+                <Title>Senior Machine Learning Engineer</Title>
+                <StartDate>2016-06-01</StartDate>
+                <EndDate>2019-12-31</EndDate>
+                <Description>Developed and deployed NLP models for sentiment analysis and entity recognition products.</Description>
+            </PositionHistory>
+        </EmployerOrg>
+    </EmploymentHistory>
+    <EducationHistory>
+        <SchoolOrInstitution schoolType="university">
+            <SchoolName>Stanford University</SchoolName>
+            <Degree degreeType="masters">
+                <DegreeName>Master of Science</DegreeName>
+                <DegreeMajor>
+                    <Name>Computer Science</Name>
+                </DegreeMajor>
+            </Degree>
+        </SchoolOrInstitution>
+        <SchoolOrInstitution schoolType="university">
+            <SchoolName>Georgia Institute of Technology</SchoolName>
+            <Degree degreeType="bachelors">
+                <DegreeName>Bachelor of Science</DegreeName>
+                <DegreeMajor>
+                    <Name>Computer Science</Name>
+                </DegreeMajor>
+            </Degree>
+        </SchoolOrInstitution>
+    </EducationHistory>
+    <Qualifications>
+        <Competency name="Python">
+            <CompetencyId>LANG-PY</CompetencyId>
+        </Competency>
+        <Competency name="TensorFlow">
+            <CompetencyId>ML-TF</CompetencyId>
+        </Competency>
+        <Competency name="PyTorch">
+            <CompetencyId>ML-PT</CompetencyId>
+        </Competency>
+        <Competency name="Google Cloud Platform">
+            <CompetencyId>CLOUD-GCP</CompetencyId>
+        </Competency>
+        <Competency name="Kubernetes">
+            <CompetencyId>DEVOPS-K8S</CompetencyId>
+        </Competency>
+    </Qualifications>
+</Resume>

@@ -1,0 +1,43 @@
+{
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "keywords": [
+        "Python",
+        "Go",
+        "TypeScript",
+        "SQL"
+      ]
+    },
+    {
+      "name": "AI/ML Frameworks",
+      "keywords": [
+        "TensorFlow",
+        "PyTorch",
+        "scikit-learn",
+        "LangChain",
+        "Genkit"
+      ]
+    },
+    {
+      "name": "Data Technologies",
+      "keywords": [
+        "Spark",
+        "Kafka",
+        "BigQuery",
+        "PostgreSQL",
+        "Vector Databases"
+      ]
+    },
+    {
+      "name": "DevOps & Cloud",
+      "keywords": [
+        "Kubernetes",
+        "Docker",
+        "Google Cloud Platform (GCP)",
+        "AWS",
+        "Terraform"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "placeholderImages": [
+    {
+      "id": "profile-avatar",
+      "description": "A professional headshot of the candidate.",
+      "imageUrl": "https://picsum.photos/seed/a1/400/400",
+      "imageHint": "professional headshot"
+    }
+  ]
+}

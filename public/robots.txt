@@ -1,0 +1,19 @@
+# Allow all crawlers access to the entire site
+User-agent: *
+Allow: /
+
+# Specific directives for AI crawlers
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+# Sitemap location
+Sitemap: https://github.com/ismailalsaedy/open-to-work/sitemap.xml

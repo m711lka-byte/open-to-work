@@ -1,0 +1,11 @@
+/* TEAM */
+Creator: ismail alsaedi
+Contact: ismailalsaedi1@gmail.com
+LinkedIn: www.linkedin.com/in/ismailalsaedy
+Location: San Francisco, CA
+
+/* SITE */
+Last update: 2024-07-29
+Standards: HTML5, CSS3, JSON-LD, Schema.org, JSON Resume, h-card
+Components: Next.js, React, Tailwind CSS
+Software: Firebase Studio

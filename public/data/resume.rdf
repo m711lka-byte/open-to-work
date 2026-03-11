@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/"
+         xmlns:schema="http://schema.org/">
+
+  <!-- Person Description -->
+  <foaf:Person rdf:about="https://semanticprofile.pro/#me">
+    <foaf:name>ismail alsaedi</foaf:name>
+    <schema:jobTitle>Principal AI Engineer</schema:jobTitle>
+    <foaf:mbox rdf:resource="mailto:ismailalsaedi1@gmail.com"/>
+    <schema:telephone>+966558953588</schema:telephone>
+    <foaf:workplaceHomepage rdf:resource="https://innovate-ai-corp.com/"/>
+    <schema:location rdf:resource="https://semanticprofile.pro/location/san-francisco"/>
+    <schema:url rdf:resource="https://semanticprofile.pro"/>
+    <schema:sameAs rdf:resource="https://linkedin.com/in/alexdoe"/>
+    <schema:sameAs rdf:resource="https://github.com/alexdoe"/>
+
+    <!-- Open to Work Status -->
+    <schema:isAcceptingNewClients>true</schema:isAcceptingNewClients> <!-- Using a proxy for openToWork -->
+    
+    <!-- Skills -->
+    <foaf:knows rdf:resource="https://semanticprofile.pro/skills/python"/>
+    <foaf:knows rdf:resource="https://semanticprofile.pro/skills/tensorflow"/>
+    <foaf:knows rdf:resource="https://semanticprofile.pro/skills/pytorch"/>
+    <foaf:knows rdf:resource="https://semanticprofile.pro/skills/gcp"/>
+    <foaf:knows rdf:resource="https://semanticprofile.pro/skills/kubernetes"/>
+    
+    <!-- Experience -->
+    <schema:worksFor>
+        <schema:Organization>
+            <schema:name>Innovate AI Corp</schema:name>
+        </schema:Organization>
+    </schema:worksFor>
+    
+    <!-- Education -->
+    <schema:alumniOf>
+        <schema:EducationalOrganization>
+            <schema:name>Stanford University</schema:name>
+        </schema:EducationalOrganization>
+    </schema:alumniOf>
+  </foaf:Person>
+  
+  <!-- Location -->
+  <schema:Place rdf:about="https://semanticprofile.pro/location/san-francisco">
+    <schema:name>San Francisco, CA</schema:name>
+  </schema:Place>
+  
+  <!-- Job Role -->
+  <schema:Role rdf:about="https://semanticprofile.pro/roles/principal-ai-engineer">
+    <schema:roleName>Principal AI Engineer</schema:roleName>
+  </schema:Role>
+  
+  <!-- Skills as Defined Terms -->
+  <schema:DefinedTerm rdf:about="https://semanticprofile.pro/skills/python">
+    <schema:name>Python</schema:name>
+    <schema:description>A high-level, general-purpose programming language.</schema:description>
+  </schema:DefinedTerm>
+  <schema:DefinedTerm rdf:about="https://semanticprofile.pro/skills/tensorflow">
+    <schema:name>TensorFlow</schema:name>
+    <schema:description>An end-to-end open source platform for machine learning.</schema:description>
+  </schema:DefinedTerm>
+    <schema:DefinedTerm rdf:about="https://semanticprofile.pro/skills/pytorch">
+    <schema:name>PyTorch</schema:name>
+    <schema:description>An open source machine learning framework that accelerates the path from research prototyping to production deployment.</schema:description>
+  </schema:DefinedTerm>
+    <schema:DefinedTerm rdf:about="https://semanticprofile.pro/skills/gcp">
+    <schema:name>Google Cloud Platform</schema:name>
+    <schema:description>A suite of cloud computing services offered by Google.</schema:description>
+  </schema:DefinedTerm>
+    <schema:DefinedTerm rdf:about="https://semanticprofile.pro/skills/kubernetes">
+    <schema:name>Kubernetes</schema:name>
+    <schema:description>An open-source container orchestration system for automating software deployment, scaling, and management.</schema:description>
+  </schema:DefinedTerm>
+
+</rdf:RDF>

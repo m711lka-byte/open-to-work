@@ -1,0 +1,139 @@
+{
+  "basics": {
+    "name": "Alex Doe",
+    "label": "Principal AI Engineer",
+    "image": "https://picsum.photos/seed/a1/400/400",
+    "email": "ismailalsaedi1@gmail.com",
+    "phone": "+966558953588",
+    "url": "https://www.behance.net/ismailalsaedi",
+    "summary": "A seasoned Principal AI Engineer with over a decade of experience in designing, building, and deploying large-scale machine learning systems. Expert in turning complex business problems into high-performance, data-driven solutions. Passionate about leveraging AI to create impactful products and mentoring the next generation of engineers.",
+    "location": {
+      "address": "2712 Broadway St",
+      "postalCode": "94115",
+      "city": "San Francisco",
+      "countryCode": "US",
+      "region": "California"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "ismailalsaedy",
+        "url": "https://www.linkedin.com/in/ismailalsaedy"
+      },
+      {
+        "network": "GitHub",
+        "username": "ismailalsaedy",
+        "url": "https://github.com/ismailalsaedy"
+      },
+      {
+        "network": "Portfolio",
+        "username": "ismailalsaedy",
+        "url": "www.linkedin.com/in/ismailalsaedy"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Innovate AI Corp",
+      "position": "Principal AI Engineer",
+      "startDate": "2020-01-01",
+      "endDate": "Present",
+      "summary": "Lead the core AI research and development team. Responsible for the architecture of the company's main recommendation engine, which serves millions of users daily. Mentored a team of 8 engineers."
+    },
+    {
+      "name": "DataDriven Solutions",
+      "position": "Senior Machine Learning Engineer",
+      "startDate": "2016-06-01",
+      "endDate": "2019-12-31",
+      "summary": "Developed and deployed NLP models for sentiment analysis and entity recognition products. Optimized model performance, reducing inference time by 40%. Contributed to several open-source projects."
+    },
+    {
+      "name": "TechStart Inc.",
+      "position": "Software Engineer",
+      "startDate": "2013-08-01",
+      "endDate": "2016-05-31",
+      "summary": "Worked on the backend services for a high-traffic e-commerce platform. Built data pipelines for analytics and reporting."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Stanford University",
+      "area": "Computer Science, specialization in Artificial Intelligence",
+      "studyType": "Master of Science",
+      "startDate": "2011-09-01",
+      "endDate": "2013-06-01"
+    },
+    {
+      "institution": "Georgia Institute of Technology",
+      "area": "Computer Science",
+      "studyType": "Bachelor of Science",
+      "startDate": "2007-09-01",
+      "endDate": "2011-06-01"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "keywords": [
+        "Python",
+        "Go",
+        "TypeScript",
+        "SQL"
+      ]
+    },
+    {
+      "name": "AI/ML Frameworks",
+      "keywords": [
+        "TensorFlow",
+        "PyTorch",
+        "scikit-learn",
+        "LangChain",
+        "Genkit"
+      ]
+    },
+    {
+      "name": "Data Technologies",
+      "keywords": [
+        "Spark",
+        "Kafka",
+        "BigQuery",
+        "PostgreSQL",
+        "Vector Databases"
+      ]
+    },
+    {
+      "name": "DevOps & Cloud",
+      "keywords": [
+        "Kubernetes",
+        "Docker",
+        "Google Cloud Platform (GCP)",
+        "AWS",
+        "Terraform"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Project Hermes",
+      "summary": "An open-source framework for building and evaluating Retrieval-Augmented Generation (RAG) pipelines. Gained 5k+ stars on GitHub.",
+      "url": "https://github.com/ismailalsaedy"
+    },
+    {
+      "name": "Semantic CV",
+      "summary": "This website. A fully semantic, machine-readable CV designed to be optimally parsed by ATS, AI crawlers, and knowledge graph systems.",
+      "url": "www.linkedin.com/in/ismailalsaedy"
+    }
+  ],
+  "meta": {
+    "status": {
+      "openToWork": true,
+      "availability": "Immediately available",
+      "preferredRoles": [
+        "Principal AI Engineer",
+        "Staff Software Engineer (AI/ML)",
+        "AI/ML Lead"
+      ],
+      "remotePreference": "Hybrid or Remote"
+    }
+  }
+}
